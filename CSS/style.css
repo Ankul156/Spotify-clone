@@ -338,6 +338,7 @@ header {
     font-weight: 700;
     margin-left: 15px;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .language:hover {
